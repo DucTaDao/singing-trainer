@@ -1,3 +1,4 @@
+
 # Singing Trainer
 
 Project học AI audio để test vocal range và transpose bài hát.
@@ -19,12 +20,19 @@ Project học AI audio để test vocal range và transpose bài hát.
 ```bash
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+````
 
 ### Frontend
+
+```bash
 cd frontend
 npm install
 npm run dev
+```
 
-## Node 
-Project dang lam dở
+## Note
 
+Project đang làm dở.
+
+```
+```
